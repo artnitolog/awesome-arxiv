@@ -1,5 +1,7 @@
 # Awesome ArXiv
 
+![](awesome-arxiv.png)
+
 This is a list of useful tools, libraries and resources for working with [arXiv](https://arxiv.org/) — online repository for scientific research papers.
 
 ## Search and Discovery
