@@ -30,3 +30,7 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 ## Unsorted
 * https://alphasignal.ai/
 * https://magazine.sebastianraschka.com/
+
+## License
+
+This list is dedicated to the public domain under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
