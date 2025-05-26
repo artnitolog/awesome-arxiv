@@ -15,6 +15,8 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 * **[huggingface Daily Papers](https://huggingface.co/papers)** — a community-curated platform that showcases trending and impactful machine learning research, updated daily by contributors like AK and the broader AI community. Each paper entry includes metadata, links to related models or datasets, and a discussion section where users can engage with authors and peers.
 * **[Semantic Scholar](https://www.semanticscholar.org/)** — a free, AI-powered research tool for navigating in scientific literature. It alows to search and analyze over 200 million scholarly papers across various disciplines, including computer science, neuroscience, and biomedicine.
 * **[Litmaps](https://www.litmaps.com/)** — an online research tool designed to enhance the literature review process by visualizing the relationships between academic papers. It allows to monitor scholarly articles through interactive citation maps, known as "litmaps".
+* **[Paper Digest](https://www.paperdigest.org/)** — an AI-powered academic research platform designed to assist researchers. It offers tools for generating literature reviews, summarizing research papers, and providing academic writing assistance, all while emphasizing accuracy and minimizing AI-generated inaccuracies.
+* **[ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)** — a GitHub repository curated that highlights top machine learning research papers on a weekly basis. Each entry includes links to selected papers, often accompanied by brief summaries or annotations.
 
 ## Datasets
 
@@ -22,3 +24,7 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 
 * * **[labml papers](https://papers.labml.ai/)** — lightweight arXiv feed focused on trending ML papers. Adds two-line summaries, social-media, similar-paper links.
 * * **[arxiv-sanity-live](https://github.com/karpathy/arxiv-sanity-lite)** — a user-friendly interface for exploring arXiv papers, offering features such as tagging and personal recommendations.
+
+## Unsorted
+* https://alphasignal.ai/
+* https://magazine.sebastianraschka.com/
