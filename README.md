@@ -1,4 +1,4 @@
-# Awesome ArXiv
+# Awesome ArXiv [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](awesome-arxiv.png)
 
