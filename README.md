@@ -21,6 +21,9 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 * **[ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)** — a GitHub repository curated that highlights top machine learning research papers on a weekly basis. Each entry includes links to selected papers, often accompanied by brief summaries or annotations.
 
 ## Datasets
+* **[Arxiver Dataset](https://huggingface.co/datasets/neuralwork/arxiver)** — more than 63,000 papers converted to multi-markdown format, published between January 2023 and October 2023. The dataset includes original metadata such as IDs, titles, abstracts, authors, publication dates. Available under a CC BY-NC-SA 4.0 license.
+* **[MINT-1T (arXiv)](https://huggingface.co/datasets/mlfoundations/MINT-1T-ArXiv)** — a multimodel dataset comprising approximately 600,000 papers, designed to support large-scale multimodal pre-training tasks. This is a subset of the [MINT-1T collection](https://github.com/mlfoundations/MINT-1T), released under CC-BY-4.0 license.
+* **[Cornell University arXiv Dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv/data)** — over 1.7 million scholarly articles across STEM fields. Includes title, authors, abstract, categories, and links to the full-text PDFs (the dataset doesn't contain parsed papers directly). CC0 1.0 license.
 
 ## Not working anymore
 
