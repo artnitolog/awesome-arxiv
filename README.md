@@ -1,8 +1,10 @@
 # Awesome ArXiv [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](awesome-arxiv.png)
-
 This is a list of useful tools, libraries and resources for working with [arXiv](https://arxiv.org/) — online repository for scientific research papers.
+
+<p align="center">
+  <img src="awesome-arxiv.png" width="70%" alt="My Image" />
+</p>
 
 ## Search & Discovery
 
