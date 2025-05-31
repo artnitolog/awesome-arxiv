@@ -23,8 +23,13 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 ## Notifications & Recommenders
 
 ## SDKs & CLI Tools
+* **[arxiv.py](https://github.com/lukasschwab/arxiv.py)** — a popular lightweight Python wrapper for the arXiv API. Allows search and retrieval of paper metadata and downloading PDFs.
+* **[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server)** — a Model Context Protocol server for searching and analyzing arXiv papers, providing a bridge between AI assistants and arXiv articles. Enables access to search, download and analyze papers. Supports integration with various AI assistants.
+* **[cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv)** — a CLI tool for for exploring arXiv, allowing to search, download, and manage research papers directly from the terminal. Texts from PDFs are auto-converted and are used to recommend future articles.
+* **[arXivScraper](https://github.com/Mahdisadjadi/arxivscraper)** — a Python scraper designed to retrieve metadata from arXiv based on specified categories and date ranges. Supports custom filtering by subcategories, authors, titles, and abstracts.
 
 ## Reading & Browser Enhancers (Reading Aids)
+* **[arxiv2notion](https://github.com/denkiwakame/arxiv2notion)** — a Chrome extension that allows to save arXiv papers directly into Notion databases. Captures metadata such as title, authors, abstract, publication date, and comments. Supports integration with Notion templates and offers Notion AI autofill and formula-based enhancements.
 
 ## Datasets
 * **[Arxiver Dataset](https://huggingface.co/datasets/neuralwork/arxiver)** — more than 63k papers converted to multi-markdown format, published between January 2023 and October 2023. The dataset includes original metadata such as IDs, titles, abstracts, authors, publication dates. Available under a CC BY-NC-SA 4.0 license.
@@ -46,6 +51,9 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 ## Unsorted
 * https://alphasignal.ai/
 * https://magazine.sebastianraschka.com/
+* https://github.com/TideDra/zotero-arxiv-daily
+* https://github.com/Vincentqyw/cv-arxiv-daily
+* https://github.com/liutaocode/TTS-arxiv-daily
 
 ## License
 
