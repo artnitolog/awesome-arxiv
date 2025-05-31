@@ -32,9 +32,12 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 * **[arxiv-dl](https://github.com/MarkHershey/arxiv-dl)** — a highly-opinionated CLI tool for downloading papers. Priorities ease of use for researchers.
 * **[Docling](https://github.com/docling-project/docling)** - a Python toolkit for advanced document conversion and analysis, particularly suited for processing arXiv papers and other scholarly documents. Efficiently parses pdfs into richly structured formats like Markdown, JSON, or HTML.
 
-## Reading & Browser Enhancers (Reading Aids)
-* **[arxiv2notion](https://github.com/denkiwakame/arxiv2notion)** — a Chrome extension that allows to save arXiv papers directly into Notion databases. Captures metadata such as title, authors, abstract, publication date, and comments. Supports integration with Notion templates and offers Notion AI autofill and formula-based enhancements.
+## Reading & Browser Enhancers
 * **[arxiv-utils](https://github.com/j3soon/arxiv-utils)** — a browser extension that enhances the reading experience on arXiv. Introduces a set of features: renames the title of PDF page to the paper's title, adds navigation hotkeys, fixes pdf name on download, open papers in extra services, compatible with other tab plugins.
+* **[PaperMemory](https://github.com/vict0rsch/PaperMemory)** — a powerful minimalist browser extension that automatically tracks and organizes the research papers. As an automated reference manager, it automatically detects and records papers you open, finds associated code repositories, adds convenient on-page tools.
+* **[Explainpaper](https://www.explainpaper.com/)** — an AI-powered tool that simplifies academic research papers. Allows to upload PDFs, highlight complex sections, and receive a clear explanation.
+* **[SciSpace Copilot](https://scispace.com/)** — an AI-powered research assistant (web tool and browser extension) that helps to read and understand papers faster. Provides a chat workflow with any arXiv paper.
+* **[arxiv2notion](https://github.com/denkiwakame/arxiv2notion)** — a Chrome extension that allows to save arXiv papers directly into Notion databases. Captures metadata such as title, authors, abstract, publication date, and comments. Supports integration with Notion templates and offers Notion AI autofill and formula-based enhancements.
 
 ## Datasets
 * **[Arxiver Dataset](https://huggingface.co/datasets/neuralwork/arxiver)** — more than 63k papers converted to multi-markdown format, published between January 2023 and October 2023. The dataset includes original metadata such as IDs, titles, abstracts, authors, publication dates. Available under a CC BY-NC-SA 4.0 license.
