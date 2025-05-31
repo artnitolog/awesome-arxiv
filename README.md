@@ -4,7 +4,7 @@
 
 This is a list of useful tools, libraries and resources for working with [arXiv](https://arxiv.org/) — online repository for scientific research papers.
 
-## Search and Discovery
+## Search & Discovery
 
 * **[Papers With Code](https://paperswithcode.com/)** — an open-access platform that bridges the gap between machine learning research papers and their corresponding code implementations. Attaches code repos, benchmarks and SOTA leaderboards.
 * **[ResearchRabbit](https://www.researchrabbit.ai/)** — an AI-powered research tool "Spotify for papers" designed to build collections, get algorithmic digests, and explore interactive citation/author graphs.
@@ -19,6 +19,12 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
 * **[Litmaps](https://www.litmaps.com/)** — an online research tool designed to enhance the literature review process by visualizing the relationships between academic papers. It allows to monitor scholarly articles through interactive citation maps, known as "litmaps".
 * **[Paper Digest](https://www.paperdigest.org/)** — an AI-powered academic research platform designed to assist researchers. It offers tools for generating literature reviews, summarizing research papers, and providing academic writing assistance, all while emphasizing accuracy and minimizing AI-generated inaccuracies.
 * **[ML Papers of The Week](https://github.com/dair-ai/ML-Papers-of-the-Week)** — a GitHub repository curated that highlights top machine learning research papers on a weekly basis. Each entry includes links to selected papers, often accompanied by brief summaries or annotations.
+
+## Notifications & Recommenders
+
+## SDKs & CLI Tools
+
+## Reading & Browser Enhancers
 
 ## Datasets
 * **[Arxiver Dataset](https://huggingface.co/datasets/neuralwork/arxiver)** — more than 63k papers converted to multi-markdown format, published between January 2023 and October 2023. The dataset includes original metadata such as IDs, titles, abstracts, authors, publication dates. Available under a CC BY-NC-SA 4.0 license.
