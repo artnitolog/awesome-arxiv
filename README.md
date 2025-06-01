@@ -1,6 +1,6 @@
 # Awesome arXiv
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/repo/repo)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Project Status](https://img.shields.io/badge/status-active-brightgreen) ![Last Commit](https://img.shields.io/github/last-commit/artnitolog/awesome-arxiv)
 
 A curated list of tools, libraries, datasets and resources for discovering, reading and working with papers from [arXiv](https://arxiv.org/) — the open-access repository for scientific research.
 
