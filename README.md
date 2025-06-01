@@ -8,8 +8,8 @@ This is a list of useful tools, libraries and resources for working with [arXiv]
   <img src="assets/awesome-arxiv.png" width="70%" alt="My Image" />
 </p>
 
+<!-- omit from toc -->
 ## Table of Contents
-* [Table of Contents](#table-of-contents)
 * [Search \& Discovery](#search--discovery)
 * [Notifications \& Recommenders](#notifications--recommenders)
 * [SDKs \& CLI Tools](#sdks--cli-tools)
