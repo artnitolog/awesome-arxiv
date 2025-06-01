@@ -9,13 +9,12 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 </p>
 
 <!-- omit from toc -->
-## Table of Contents
+## Contents
 * [Search \& Discovery](#search--discovery)
 * [Notifications \& Recommenders](#notifications--recommenders)
 * [SDKs \& CLI Tools](#sdks--cli-tools)
 * [Reading \& Browser Enhancers](#reading--browser-enhancers)
 * [Datasets](#datasets)
-* [License](#license)
 
 ## Search & Discovery
 
@@ -71,6 +70,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 * **[SciEvo](https://github.com/Ahren09/SciEvo)** — a large-scale dataset designed to support scientometric research and the study of scientific knowledge evolution. Provides a collection of over 2M publications,  including detailed metadata and citation graphs. Available under the Apache 2.0 license.
 * **[unarXive](https://github.com/IllDepence/unarXive)** — a structured dataset of 1.9M arXiv LaTeX papers including full text, references, captions, mathematical notation preserved as LaTeX. It supports tasks like citation recommendation and IMRaD classification, with an open subset and full version available upon request. MIT license.
 
-## License
+<!-- omit from toc -->
+## Contributing
 
-This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Feel free to contribute! Please read the [contribution guidelines](contributing.md) first.
