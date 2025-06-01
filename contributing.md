@@ -7,5 +7,5 @@ Thank you making this list better for everyone.
 3. Add links alphabetically inside the correct section.
 4. Use the following format:
 ```
-* **[Project Name](https://example.com)** — a short description, just a couple of sentences highlighting main features.
+- **[Project Name](https://example.com)** — a short description, just a couple of sentences highlighting the main features.
 ```
