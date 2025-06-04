@@ -58,6 +58,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 - **[Explainpaper](https://www.explainpaper.com/)** — a tool that simplifies academic research papers. Allows to upload PDFs, highlight complex sections, and receive a clear explanation.
 - **[PaperMemory](https://github.com/vict0rsch/PaperMemory)** — a powerful minimalist browser extension that automatically tracks and organizes the research papers. As an automated reference manager, it automatically detects and records papers you open, finds associated code repositories, adds convenient on-page tools.
 - **[SciSpace Copilot](https://scispace.com/)** — a research assistant (web tool and browser extension) that helps to read and understand papers faster. Provides a chat workflow with any arXiv paper.
+- **[zotero-arxiv-workflow](https://github.com/AllanChain/zotero-arxiv-workflow)** — Zotero plugin that fetches the latest arXiv revision, finds the published journal version, and automatically merges entries of the same paper.
 
 ## Datasets
 
