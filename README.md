@@ -49,6 +49,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 - **[arXivScraper](https://github.com/Mahdisadjadi/arxivscraper)** — a Python scraper designed to retrieve metadata from arXiv based on specified categories and date ranges. Supports custom filtering by subcategories, authors, titles, and abstracts.
 - **[cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv)** — a CLI tool for for exploring arXiv, allowing to search, download, and manage research papers directly from the terminal. Texts from PDFs are auto-converted and are used to recommend future articles.
 - **[Docling](https://github.com/docling-project/docling)** — a Python toolkit for advanced document conversion and analysis, particularly suited for processing arXiv papers and other scholarly documents. Efficiently parses pdfs into richly structured formats like Markdown, JSON, or HTML.
+- **[voy](https://github.com/floringogianu/voy)** — keep up to date on the researchers you admire! `voy` is an elegant tool for searching and following authors on arXiv. Easy triage and full text search on the papers from the authors you follow.
 
 ## Reading & Browser Enhancers
 
