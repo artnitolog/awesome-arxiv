@@ -43,6 +43,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 ## SDKs & CLI Tools
 
 - **[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server)** — a Model Context Protocol server for searching and analyzing arXiv papers, providing a bridge between AI assistants and arXiv articles. Enables access to search, download and analyze papers. Supports integration with various AI assistants.
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** — a hosted MCP server for searching scientific papers built from raw experimental data extracted from full-text studies. Provides a `search_papers` tool with 50 free searches per network. Supports SSE and Streamable HTTP endpoints.
 - **[arxiv-dl](https://github.com/MarkHershey/arxiv-dl)** — a highly-opinionated CLI tool for downloading papers. Priorities ease of use for researchers.
 - **[arxiv.py](https://github.com/lukasschwab/arxiv.py)** — a popular lightweight Python wrapper for the arXiv API. Allows search and retrieval of paper metadata and downloading PDFs.
 - **[arxiv_summarizer](https://github.com/Shaier/arxiv_summarizer)** — a Python-based tool designed to fetch and summarize arXiv papers, supporting single-paper summaries, batch processing, and keyword-based searches.
