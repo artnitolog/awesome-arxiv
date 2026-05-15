@@ -44,6 +44,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 
 - **[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server)** — a Model Context Protocol server for searching and analyzing arXiv papers, providing a bridge between AI assistants and arXiv articles. Enables access to search, download and analyze papers. Supports integration with various AI assistants.
 - **[arxiv-dl](https://github.com/MarkHershey/arxiv-dl)** — a highly-opinionated CLI tool for downloading papers. Priorities ease of use for researchers.
+- **[latex2arxiv](https://github.com/YuZh98/latex2arxiv)** — a CLI tool for preparing LaTeX projects for arXiv submission. Prunes unreachable files, strips draft markup, validates bibliography entries, and catches desk-rejection errors before upload. Available via PyPI, Homebrew, GitHub Actions, pre-commit, and as an MCP server for AI agents.
 - **[arxiv.py](https://github.com/lukasschwab/arxiv.py)** — a popular lightweight Python wrapper for the arXiv API. Allows search and retrieval of paper metadata and downloading PDFs.
 - **[arxiv_summarizer](https://github.com/Shaier/arxiv_summarizer)** — a Python-based tool designed to fetch and summarize arXiv papers, supporting single-paper summaries, batch processing, and keyword-based searches.
 - **[arXivScraper](https://github.com/Mahdisadjadi/arxivscraper)** — a Python scraper designed to retrieve metadata from arXiv based on specified categories and date ranges. Supports custom filtering by subcategories, authors, titles, and abstracts.
