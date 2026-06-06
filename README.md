@@ -30,6 +30,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 - **[ResearchRabbit](https://www.researchrabbit.ai/)** — a research tool "Spotify for papers" designed to build collections, get algorithmic digests, and explore interactive citation/author graphs.
 - **[Semantic Scholar](https://www.semanticscholar.org/)** — a free research tool for navigating in scientific literature. It allows to search and analyze over 200M scholarly papers across various disciplines, including computer science, neuroscience, and biomedicine.
 - **[searchthearXiv](https://github.com/augustwester/searchthearxiv)** — a semantic search engine designed to help users explore over 300k machine learning papers from arXiv using natural language queries or by inputting an arXiv link to find similar papers.
+- **[Spraay x402 Gateway](https://docs.spraay.app/#cat-research)** — x402 payment API with 3 arXiv endpoints for AI agents: preprint search by keyword/category, metadata by arXiv ID, and latest preprints by category. Pay-per-call in USDC on Base & Solana — no API keys. Also includes OpenAlex (250M papers), Crossref, and PubMed endpoints.
 
 ## Notifications & Recommenders
 
