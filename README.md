@@ -52,6 +52,7 @@ A curated list of tools, libraries, datasets and resources for discovering, read
 
 ## Reading & Browser Enhancers
 
+- **[arxane](https://arxane.org)** — a free daily online newspaper based on arxiv open data.
 - **[arxiv-utils](https://github.com/j3soon/arxiv-utils)** — a browser extension that enhances the reading experience on arXiv. Introduces a set of features: renames the title of PDF page to the paper's title, adds navigation hotkeys, fixes PDF name on download, open papers in extra services, compatible with other tab plugins.
 - **[arxiv2notion](https://github.com/denkiwakame/arxiv2notion)** — a Chrome extension that allows to save arXiv papers directly into Notion databases. Captures metadata such as title, authors, abstract, publication date, and comments. Supports integration with Notion templates and offers Notion AI autofill and formula-based enhancements.
 - **[Elicit](https://elicit.com)** — a research assistant that helps automate tasks like literature reviews, data extraction, and summarization using over 125M academic papers. It enables users to ask research questions, extract data from PDFs (including tables), and generates summaries with source citations.
